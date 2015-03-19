@@ -7,7 +7,7 @@ Javaに関するスキルのレベルを自己5段階評価で 2
 
 課題1実行方法
 コマンドラインから下記コマンドを実行してください。
-#saito-readable-codeフォルダに移動していること。
-1.javac src/Main.java
-2.java src/Main
+#saito-readable-code/srcフォルダに移動していること。
+1.javac Main.java
+2.java Main
 
